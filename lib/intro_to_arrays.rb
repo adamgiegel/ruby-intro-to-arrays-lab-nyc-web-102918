@@ -1,4 +1,4 @@
 def @my_new_array
   newArr = []
-  return newArr
+  puts newArr
 end
