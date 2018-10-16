@@ -1,4 +1,4 @@
 def my_new_array
   newArr = []
-  puts newArr
+  return newArr
 end
